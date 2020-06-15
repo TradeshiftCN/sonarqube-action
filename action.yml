@@ -1,0 +1,6 @@
+name: 'Sonarcube'
+description: 'Check code with sonarcube'
+author: 'Soren Mathiasen'
+runs:
+  using: 'docker'
+  image: 'docker://eu.gcr.io/tradeshift-public/sonarcube-action:0.0.1'
