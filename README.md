@@ -1,1 +1,1 @@
-# sonarcube-action
+# sonarqube-action
